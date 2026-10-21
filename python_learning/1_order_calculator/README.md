@@ -1,7 +1,7 @@
 # order_calculator-
 First repository, kinda nervous ~hmph
 
-<img width="270" height="270" alt="image" src="https://github.com/user-attachments/assets/ca170182-a9e7-41a0-8f90-e07fad323e87" />
+<img width="1080" height="1080" alt="tsundere" src="https://github.com/user-attachments/assets/3cf3b24c-10dd-4d7c-8e28-2980c0bc3583" />
 
 (im a dude btw)
 
