@@ -2,3 +2,5 @@ This topic is preety fun ngl, but kinda useless in short scripts tho. It will be
 <img width="500" height="500" alt="konekomeow" src="https://github.com/user-attachments/assets/bb497795-e335-4c21-b287-a56e789dd420" />
 
 Koneko is the best catgirl in fiction (nothing will change my mind)
+
+The code i wrote is random af but i wanted to add smth there on github in this thing
